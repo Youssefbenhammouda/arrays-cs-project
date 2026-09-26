@@ -123,7 +123,7 @@ public class ManageStudent {
         Student[] arr = new Student[5];
         arr[0] = new Student(1, "Youssef", 21, 19);
         arr[1] = new Student(2, "Adam", 20, 15);
-        arr[2] = new Student(3, "Omar", 20, 12);
+        arr[2] = new Student(3, "Om ar", 20, 12);
         arr[3] = new Student(4, "Oussama", 16, 16);
         arr[4] = new Student(5, "Adam", 17, 11);
         // Print all
